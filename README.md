@@ -1,20 +1,51 @@
-Hi, I am a Java Web Developer with a diverse skillset across Java - Springboot Web Application development, Springboot Microservices , Maven, Ant, Gradle, CI/CD Jenkins, Hibernate, JDBC, Java JPA, MySql ,Oracle,H2 databases, RESTfull web services, SOAP Services, JSP, JavaScript, Typescript, NodeJs, ReactJS, Angular v8 CLI with bachelor's in mechanical and automation with 9.3 CGPA from GGSIPU, I have since worked with corporations, I am a team player, I have worked in team in my previous internships and jobs.
-Passionate about enhancing the way web application works and eager to make a difference, I am open to new challenges and thrive in collaborative roles.
+<img align="right" src="https://github.com/udhav-saraswat/udhav-saraswat/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
-‌ Skills :-
-Spring batch and quartz CRON job scheduling, Java - Springboot Web Application development, Springboot Microservices , Maven, Ant, Gradle, CI/CD Jenkins, Hibernate, Api Devlopment using Postman, JDBC, Java JPA, MySql ,Oracle,H2 databases, RESTfull web services, SOAP Services, JSP, JavaScript, Typescript, NodeJs, ReactJS, Angular v8 CLI, Aws services and integration, Aws simple queue services, Aws sns and Ec2, Java Mail services, Java web applications security, Aws architecture diagrams, flow diagrams.
 
-Devlopment :-
-Eclipse IDE, Intellij idea, Spring tool suite, HTML/CSS, Postman, SoapUI,  javascript, java, typescript, Git, Jira, Agile.
+### Hi there, I am Udhav Saraswat 👋
+[![Linkedin Badge](https://img.shields.io/badge/-udhav-saraswat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/udhav-saraswat/)](https://www.linkedin.com/in/udhav-saraswat/)
+[![Gmail Badge](https://img.shields.io/badge/-udhav.saraswat.17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:udhav.saraswat.17@gmail.com)](mailto:udhav.saraswat.17@gmail.com) 
+[![Star Badge](https://img.shields.io/amo/stars/dustman )]
 
-- 👋 Hi, I’m @Udhav-Saraswat
-- 👀 I’m interested in Java, Springboot, SpringBatch, MicroServices, Angular ----> Full Stack Java Web Devlopment
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Project based on spring microservices
-- 📫 How to reach me udhav.saraswat.17@gmail.com
 
-<!---
-Udhav-Saraswat/Udhav-Saraswat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎯 Portfolio website: [Portfolio](https://udhav.github.io/)
+- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+
+💻 **Things I love**
+- JAVA
+- Springboot Microservices
+- Spring cloud
+- Open Source
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Backend Development ✍️
+- Machine Learning 🧐
+- Data Science 😬
+
+    <a href="https://github.com/udhav-saraswat/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=udhav-saraswat&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+    </a>
+    
+🛠**Tech Stack**
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
+
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+
+<div align="center">
+    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div>
+
