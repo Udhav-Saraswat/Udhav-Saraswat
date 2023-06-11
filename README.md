@@ -1,11 +1,13 @@
-<img align="right" src="https://github.com/udhav-saraswat/udhav-saraswat/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/Udhav-Saraswat/Udhav-Saraswat/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
+
+
 
 
 
 ### Hi there, I am Udhav Saraswat 👋
 [![Linkedin Badge](https://img.shields.io/badge/-udhav-saraswat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/udhav-saraswat/)](https://www.linkedin.com/in/udhav-saraswat/)
 [![Gmail Badge](https://img.shields.io/badge/-udhav.saraswat.17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:udhav.saraswat.17@gmail.com)](mailto:udhav.saraswat.17@gmail.com) 
-[![Star Badge](https://img.shields.io/amo/stars/dustman )]
+![Star Badge](https://img.shields.io/amo/stars/dustman )
 
 
 - 🎯 Portfolio website: [Portfolio](https://udhav.github.io/)
