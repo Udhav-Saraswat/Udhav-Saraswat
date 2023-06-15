@@ -6,11 +6,11 @@
 
 ### Hi there, I am Udhav Saraswat 👋
 [![Linkedin Badge](https://img.shields.io/badge/-udhav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/udhav-saraswat/)](https://www.linkedin.com/in/udhav-saraswat/)
-[![Gmail Badge](https://img.shields.io/badge/-udhav.saraswat.17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:udhav.saraswat.17@gmail.com)](mailto:udhav.saraswat.17@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-udhavsaraswat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:udhavsaraswat@gmail.com)](mailto:udhav.saraswat.17@gmail.com) 
 ![Star Badge](https://img.shields.io/amo/stars/dustman )
 
 
-- 🎯 Portfolio website: [Portfolio](https://udhav.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://udhav-saraswat.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
